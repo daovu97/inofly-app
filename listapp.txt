@@ -1,0 +1,14 @@
+{
+  "list_app": [
+    {
+      "icon": "",
+      "name": "",
+      "store_url": ""
+    },
+    {
+      "icon": "",
+      "name": "",
+      "store_url": ""
+    }
+  ]
+}
