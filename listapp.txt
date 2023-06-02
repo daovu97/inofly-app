@@ -3,12 +3,14 @@
     {
       "icon": "",
       "name": "",
-      "store_url": ""
+      "store_url": "",
+      "store_id": ""
     },
     {
       "icon": "",
       "name": "",
-      "store_url": ""
+      "store_url": "",
+      "store_id": ""
     }
   ]
 }
